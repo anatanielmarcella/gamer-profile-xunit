@@ -60,7 +60,7 @@ dotnet add GamerProfile.Tests/GamerProfile.Tests.csproj reference GamerProfile.A
 
 ## Autor
 
-**Gabriel Gobira** — [@GabrielGobira](https://github.com/GabrielGobira)
+Marcella Anataniel Souza
 
 ## Licença
 
